@@ -1,0 +1,10 @@
+What is Git and how is it different than GitHub?
+-Git allow programmers to work simultaneously on a particular file. This means programmers keep track of updates being made on that single file by adding messages of the changes that were made. Github is a website where programmers can add repositories which contain folders and files of their source code. Programmers can create branches with in the repository and add changes to the files and folders without affecting the original folder (masters).
+
+Why use the terminal?
+-Terminal are use because we can communicate with the computer directly instead of using an interpreter like GUI. Terminal allow us to create and move files or folders quicker in the computer by using minimal key presses or shortcuts. 
+
+Explain 3 benefits version control in your own words.
+-Version control allow programmers to view the changes done by programmers on the same file.
+-It also allows people to work collaboratively on the same project.
+-Programmers can make multiple copies of an original project (master) by creating branches to allow people to make changes on the source code without affecting the original source. If any work on the source code is successful, then that change can be added to the original source by merging the branch to the master. 
