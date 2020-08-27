@@ -1,0 +1,37 @@
+David Espinal
+The Knowledge House
+20 August 2020
+Module 7
+
+Overview:
+Each year the number of English Language Learners (ELLs) in NYC public schools continues to increase. Although teachers try their best to create lesson plans to meet their students’ educational needs, it is the ELL students who greatly struggle to complete their tasks. Some of the factors which play a role in their struggle is not understanding lesson plan instructions due to the language barrier, understaffed school or insufficient bilingual teachers, and outdated textbooks. A language learning application would be significant for ELL students because they can study at their own pace while learning how to read, write, and speak at or close to grade level. This application will make lessons fun for students to stay motivated each time they achieve an obstacle, but it will also guide them within lessons using visual instructions. The purpose of the language learning application is to emphasize students’ reading and writing comprehension in English.   
+
+App Name:
+ELang - Learn to Read & Write English
+
+Description:
+Elang is the best way to start building your child’s skills to read & write proficiently in English. The application delivers fun educational activities for students of grade level 1st - 5th and rewards them with credits to unlock new assignments. Students will have to complete an assessment test that measures their English comprehension. Their grade will be recorded and saved for future comparison to measure the student’s progress. 
+After completion of the assessment exam, students will have the opportunity to work on topics like ‘Sounds and letters of the alphabet’, ‘Vowels & consonants’, ‘Spell and identify sight words’, & ‘Writing basic sentences’. Elang helps children recognize letter shape and phonics sound by creating games like singing along the alphabet and saying the sound of each letter. Any child can learn to develop their English skills by identifying sight words in the images or their surrounding, spelling, and reading CVC (Consonant Vowel Consonants) words aloud, and constructing simple sentences.
+Students will advance to the next level when all exercises on each topic are completed. Each level will contain the same exercise topics, however, the assignment themselves will become steadily challenging. As children enter the following level, a star icon will be shown on their profile informing them of the level they are in. Every topic will include a review section where the child has to work on lessons from the previous level before they start a new challenge.
+Elang is accessible on desktops, laptops, mobile devices, & tablets. First-time users may click the ‘register’ button to create a student account. The registration step can be skipped if the child attends any of the schools which are part of the NYC Department of Education (DOE). Users can sign into their DOE student account and gain access to this app.
+
+Features:
+	- Visual instructions, like short animations, to help guide children on using Elang and its lessons.
+	- Choose your native language to make a connection with English words.
+	- Reinforcement of alphabet songs and index cards with the letter of the alphabet.  
+	- Trace English alphabet, CVC, and sight words.
+ 	- CVC matching and drawing games.
+	- Color, read, and fill in the blank sight word sentences.
+	- Use the word bank to turn the fragment into a complete sentence.
+	- Simple and colorful user interface (UI) that helps students learn the English language swiftly.
+	- Automatically saves student progress on assignments, games, and quizzes.  
+	- Track and monitor student progress.
+
+Students who are non-native English speakers will have boosted confidence. They will have no frustrations when they try the animations features. This educational application will allow students to learn how to work out the assignments independently and build their excitement to learn English when they play our free games. To enhance the children’s learning, teachers and parents can view the child’s work, add positive feedback comments on the lesson, and reward extra points for the assignment completion. Elang is free of charge for students who attend any schools of NYC DOE. 
+
+
+Wireframe: 
+	https://drive.google.com/file/d/1O3jnAb3o98b2JOnmnJh8Y-wwDQfs2LM4/view?usp=sharing
+
+Lean Business Model Canvas:
+	https://docs.google.com/drawings/d/1egwYllLDOZe3xrZbUyqr3Rpa_pp5cr0xETkboVJzsuY/edit?usp=sharing
